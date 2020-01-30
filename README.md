@@ -1,1 +1,2 @@
-Evan Adams ea119618
+Name: Evan Adams
+GitHub: ea119618
