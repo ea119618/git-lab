@@ -67,3 +67,26 @@ nothing to commit, working tree clean
 
 10. 
 
+Yes, the changes were committed.
+
+11. 
+
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+12. 
+
+Yes, the changes were pushed.
+
+13. 
+
+Evans-MacBook:git-lab-2 EvanAdams$ ls -a
+.		..		.git		.gitignore	README.md
+
+
+
+
+
+
